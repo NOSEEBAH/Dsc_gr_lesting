@@ -1,22 +1,23 @@
 # dscly-git-infosession
 this repo includes the needed things for the dsc git info session
 
-git reso:https://git-scm.com/downloads
-git command ref:https://git-scm.com/book/en/v2
-github education:https://education.github.com/pack
+git reso:https://git-scm.com/downloads</br>
+git command ref:https://git-scm.com/book/en/v2</br>
+github education:https://education.github.com/pack</br>
+github desktop:https://desktop.github.com/</br>
 
 
-<b>Configure Tooling</b>
-git config --global user.name "[name]"
-<i>Sets the name you want attached to your commit transactions</i>
-git config --global user.email "[email address]"
-<i>Sets the email you want attached to your commit transactions</i>
+<b>Configure Tooling</b></br>
+git config --global user.name "[name]"</br>
+<i>Sets the name you want attached to your commit transactions</i></br>
+git config --global user.email "[email address]"</br>
+<i>Sets the email you want attached to your commit transactions</i></br>
 
-<b>Create Repositories</b>
-git init [project-name]
-<i>Creates a new local repository with the specified name</i>
-git clone [url]
-<i>Downloads a project and its entire version history</i>
+<b>Create Repositories</b></br>
+git init [project-name]</br>
+<i>Creates a new local repository with the specified name</i></br>
+git clone [url]</br>
+<i>Downloads a project and its entire version history</i></br>
 
 <b>Group Changes</b>
 git branch
@@ -47,3 +48,7 @@ git reset [file]
 <i>Unstages the file, but preserves its contents</i>
 git commit -m "[descriptive message]"
 <i>Records the file snapshots permanently in version history</i>
+
+Save Fragments
+git stash
+Temporarily stores all modified tracking files
