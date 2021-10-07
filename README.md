@@ -16,11 +16,15 @@
 
 <b>Git Command Ref</b>: https://git-scm.com/book/en/v2<br>
 
+<b>Centralized vs Distributed Version Control</b> : https://www.geeksforgeeks.org/centralized-vs-distributed-version-control-which-one-should-we-choose/ </br>
+
 <b>Github Education</b>: https://education.github.com/pack<br>
 
 <b>Github Desktop</b>: https://desktop.github.com/<br>
 
-<br>
+<b>the next picture explains how repo works:</b>
+
+<img src="trees.png"><br>
 
 <b>Configure Tooling</b><br>
 git config --global user.name "[name]"<br>
